@@ -4,6 +4,8 @@ A DIY 3-axis CNC machine built by a student.
 
 > **Status:** Work in progress. Funding from Hack Club is pending (not yet approved).
 
+The machine can cut aluminum, wood, acrylic and other similar materials with great accuracy.
+
 ## Specifications
 
 | Item | Details |
@@ -20,7 +22,7 @@ A DIY 3-axis CNC machine built by a student.
 
 ## Bill of Materials / Price List
 
-Prices are in CZK.
+Prices are in CZK. These are not final prices, shipping is expected to cost around 4,000 CZK.
 
 | Item | Pieces | Price per set/pc | Total |
 |------|-------:|-----------------:|------:|
@@ -41,6 +43,8 @@ Prices are in CZK.
 | SFU1605 screw nut | 4 | 165.86 | 663.42 |
 | Vacuum mount | 1 | 150 | 150 |
 | **Total** | | | **6,160.20 CZK** |
+
+
 
 ## Roadmap
 
