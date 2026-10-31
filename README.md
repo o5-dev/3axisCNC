@@ -1,6 +1,10 @@
 # 3AxisCNC
 
 <p align="left">
+  <img src="assets/banner.png" alt="3axisCNC" width="640">
+</p>
+
+<p align="left">
   <a href="https://o5-dev.github.io/personal-site/"><img src="https://img.shields.io/badge/Contact-Personal_site-00943C?style=for-the-badge" alt="Contact"></a>
   <a href="https://discord.gg/NPWzMUWvQ5"><img src="https://img.shields.io/badge/Community-Discord_server-2563eb?style=for-the-badge" alt="Discord server community"></a>
   <a href="https://tiktok.com/@o5_dev"><img src="https://img.shields.io/badge/Social-TikTok-151515?style=for-the-badge" alt="Contact"></a>
@@ -12,6 +16,11 @@ A DIY 3-axis CNC machine built by a student.
 > **Status:** Work in progress. Funding from Hack Club is pending (not yet approved).
 
 The machine can cut aluminum, wood, acrylic and other similar materials with great accuracy.
+Controlled by GRLB + UGS.
+
+<p align="left">
+  <img src="assets/cnc.png" alt="Current CNC CAD model" width="640">
+</p>
 
 ## Specifications
 
