@@ -16,7 +16,7 @@ A DIY 3-axis CNC machine built by a student.
 > **Status:** Work in progress. Funding from Hack Club is pending (not yet approved).
 
 The machine can cut aluminum, wood, acrylic and other similar materials with great accuracy.
-Controlled by GRLB + UGS.
+Controlled by GRBL + UGS.
 
 <p align="left">
   <img src="assets/cnc.png" alt="Current CNC CAD model" width="640">
