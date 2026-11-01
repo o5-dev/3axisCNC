@@ -22,7 +22,7 @@ A DIY 3-axis CNC machine built by a student.
 The machine can cut aluminum, wood, acrylic and other similar materials with great accuracy.
 Controlled by GRBL + UGS.
 
-![CNC simulation](assets/cnc-sim.gif)
+   ![CNC simulation](https://github.com/o5-dev/3axisCNC/raw/main/assets/cnc-sim3.gif)
 
 ## Specifications
 
