@@ -23,7 +23,7 @@ The machine can cut aluminum, wood, acrylic and other similar materials with gre
 Controlled by GRBL + UGS.
 
 <p align="left">
-  <img src="assets/cnc_sim3" alt="CNC simulation" width="640">
+  <img src="assets/cnc-sim3.gif" alt="CNC simulation" width="640">
 </p>
 
 ## Specifications
