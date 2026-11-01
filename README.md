@@ -7,8 +7,12 @@
 <p align="left">
   <a href="https://o5-dev.github.io/personal-site/"><img src="https://img.shields.io/badge/Contact-Personal_site-00943C?style=for-the-badge" alt="Contact"></a>
   <a href="https://discord.gg/NPWzMUWvQ5"><img src="https://img.shields.io/badge/Community-Discord_server-2563eb?style=for-the-badge" alt="Discord server community"></a>
-  <a href="https://tiktok.com/@o5_dev"><img src="https://img.shields.io/badge/Social-TikTok-151515?style=for-the-badge" alt="Contact"></a>
   <a href="https://fallen.hackclub.com/projects/prj_vG7FZG"><img src="https://img.shields.io/badge/Fallen-Hack_Club_listing-ec3750?style=for-the-badge" alt="Project listing on Fallen by Hack Club"></a>
+</p>
+<p align="left">
+  <a href="https://tiktok.com/@o5_dev"><img src="https://img.shields.io/badge/Social-TikTok-151515?style=for-the-badge" alt="Contact"></a>
+  <a href="https://www.youtube.com/channel/UC6TZMkEqx8zDuHFZ_sQoCnw"><img src="https://img.shields.io/badge/Social-YouTube-ff0033?style=for-the-badge" alt="Contact"></a>
+  <a href="https://www.instagram.com/o5dev1/"><img src="https://img.shields.io/badge/Social-Instagram-fc541e?style=for-the-badge" alt="Contact"></a>
 </p>
 
 A DIY 3-axis CNC machine built by a student.
@@ -19,7 +23,7 @@ The machine can cut aluminum, wood, acrylic and other similar materials with gre
 Controlled by GRBL + UGS.
 
 <p align="left">
-  <img src="assets/cnc.png" alt="Current CNC CAD model" width="640">
+  <img src="assets/cnc-sim3" alt="CNC simulation" width="640">
 </p>
 
 ## Specifications
